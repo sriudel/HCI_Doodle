@@ -11,4 +11,4 @@ This is a custom Doodle application built for Android devices. The app allows us
 ## How to Run the Project
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/doodle-app.git
+   git clone https://github.com/sriudel/HCI_Doodle.git
