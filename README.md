@@ -6,7 +6,6 @@ This is a custom Doodle application built for Android devices. The app allows us
 - Adjustable brush size.
 - Opacity control for transparent strokes.
 - Multiple colors to draw with.
-- Invert colors for creative effects.
 - Clear button to refresh the canvas.
 
 ## How to Run the Project
